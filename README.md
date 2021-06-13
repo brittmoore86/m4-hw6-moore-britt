@@ -1,2 +1,3 @@
 # m4-hw6-moore-britt
  
+I had a lot of difficulty getting through this assignment and will certainly need more practice. In particular, I learned about edge cases and was confused about whether or not to apply them with this assignment (specifically the array created for toppings). The .length wasn't the obvious solution at first and I assumed I had to think of a topping for every possible scenario.
